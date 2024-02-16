@@ -1,0 +1,20 @@
+[
+  {
+    "NumerKarty": "12345",
+    "HashPin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "StanKonta": 33.31,
+    "TypKarty": "Visa"
+  },
+  {
+    "NumerKarty": "12345678",
+    "HashPin": "80ccd59a719f2767156694923e74dcea96baa78e9220c697e1e8dddaeef7bd8f",
+    "StanKonta": 2305.34,
+    "TypKarty": "Visa"
+  },
+  {
+    "NumerKarty": "1234234534564567",
+    "HashPin": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "StanKonta": 55.99,
+    "TypKarty": "Visa"
+  }
+]
